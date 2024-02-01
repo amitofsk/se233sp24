@@ -1,2 +1,3 @@
 # se233sp24
-For SE233 Spring 2024
+
+This repository is used by the SE233 class in Spring 2024 to practice using git.
